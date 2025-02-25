@@ -9,7 +9,6 @@ This project explores the World Happiness Report 2024 dataset using various data
 **Author:** Yashaswini Mekala
 
 **Dataset**
-
 **Source:** Kaggle - World Happiness Report 2024
 
 **Pre-processing Steps:**
